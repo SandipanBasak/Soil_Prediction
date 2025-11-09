@@ -1,8 +1,10 @@
 fastapi
 uvicorn
+gunicorn
 pillow
 python-multipart
 torch
 torchvision
 torchaudio
 -f https://download.pytorch.org/whl/torch_stable.html
+
